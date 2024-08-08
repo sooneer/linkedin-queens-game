@@ -51,14 +51,14 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/linkedin-queens-game/?source=pwa",
+  "start_url": "?source=pwa",
   "background_color": "#fff",
   "display": "standalone",
-  "scope": "/linkedin-queens-game/",
+  "scope": "https://sooneer.github.io/linkedin-queens-game/",
   "theme_color": "#fff",
   "dir": "ltr",
   "lang": "tr",
-  "id": "/linkedin-queens-game/?source=pwa",
+  "id": "?source=pwa",
   "orientation": "any",
   "categories": ["game"],
   "shortcuts": [],
