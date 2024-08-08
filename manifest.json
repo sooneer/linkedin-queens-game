@@ -51,10 +51,10 @@
       "type": "image/png"
     }
   ],
-  "start_url": "?source=pwa",
+  "start_url": "/linkedin-queens-game/?source=pwa",
   "background_color": "#fff",
   "display": "standalone",
-  "scope": "/linkedin-queens-game/",
+  "scope": "/",
   "theme_color": "#fff",
   "dir": "ltr",
   "lang": "tr",
