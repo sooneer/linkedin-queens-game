@@ -1,0 +1,76 @@
+{
+  "short_name": "All Queens",
+  "name": "Linkedin Queens Game List",
+  "icons": [
+    {
+      "src": "https://sooneer.github.io/linkedin-queens-game/assets/icons/16.png?v=1",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://sooneer.github.io/linkedin-queens-game/assets/icons/32.png?v=1",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://sooneer.github.io/linkedin-queens-game/assets/icons/64.png?v=1",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://sooneer.github.io/linkedin-queens-game/assets/icons/128.png?v=1",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://sooneer.github.io/linkedin-queens-game/assets/icons/192png?v=1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://sooneer.github.io/linkedin-queens-game/assets/icons/256.png?v=1",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://sooneer.github.io/linkedin-queens-game/assets/icons/512.png?v=1",
+      "sizes": "512x512",
+      "purpose": "maskable",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sooneer.github.io/linkedin-queens-game/assets/icons/1024.png?v=1",
+      "sizes": "1024x1024",
+      "purpose": "maskable",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#fff",
+  "dir": "ltr",
+  "lang": "tr",
+  "id": "/?source=pwa",
+  "orientation": "any",
+  "categories": ["game"],
+  "shortcuts": [],
+  "background": {
+    "service_worker": "sw.js",
+    "type": "module"
+  },
+  "description": "All Linkedin Queens Game",
+  "screenshots": [],
+  "edge_side_panel": {
+    "preferred_width": 385
+  },
+  "prefer_related_applications": true,
+  "display_override": ["window-controls-overlay"]
+}
