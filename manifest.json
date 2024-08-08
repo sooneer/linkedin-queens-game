@@ -54,7 +54,7 @@
   "start_url": "?source=pwa",
   "background_color": "#fff",
   "display": "standalone",
-  "scope": "https://sooneer.github.io/linkedin-queens-game/",
+  "scope": "/linkedin-queens-game/",
   "theme_color": "#fff",
   "dir": "ltr",
   "lang": "tr",
