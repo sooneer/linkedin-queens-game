@@ -1,1 +1,105 @@
-{"Id":75,"Size":9,"Colors":[[{"color":1,"isCheck":0,"isQueen":false},{"color":1,"isCheck":0,"isQueen":false},{"color":1,"isCheck":0,"isQueen":false},{"color":1,"isCheck":0,"isQueen":false},{"color":1,"isCheck":0,"isQueen":false},{"color":1,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":true},{"color":2,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false}],[{"color":1,"isCheck":0,"isQueen":false},{"color":1,"isCheck":0,"isQueen":false},{"color":1,"isCheck":0,"isQueen":false},{"color":3,"isCheck":0,"isQueen":true},{"color":3,"isCheck":0,"isQueen":false},{"color":3,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false}],[{"color":4,"isCheck":0,"isQueen":false},{"color":1,"isCheck":0,"isQueen":true},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false}],[{"color":4,"isCheck":0,"isQueen":false},{"color":1,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":true},{"color":5,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false}],[{"color":4,"isCheck":0,"isQueen":true},{"color":4,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false}],[{"color":4,"isCheck":0,"isQueen":false},{"color":4,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false},{"color":6,"isCheck":0,"isQueen":true}],[{"color":4,"isCheck":0,"isQueen":false},{"color":7,"isCheck":0,"isQueen":false},{"color":7,"isCheck":0,"isQueen":true},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":5,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false},{"color":2,"isCheck":0,"isQueen":false},{"color":6,"isCheck":0,"isQueen":false}],[{"color":4,"isCheck":0,"isQueen":false},{"color":7,"isCheck":0,"isQueen":false},{"color":7,"isCheck":0,"isQueen":false},{"color":7,"isCheck":0,"isQueen":false},{"color":8,"isCheck":0,"isQueen":true},{"color":6,"isCheck":0,"isQueen":false},{"color":6,"isCheck":0,"isQueen":false},{"color":6,"isCheck":0,"isQueen":false},{"color":6,"isCheck":0,"isQueen":false}],[{"color":4,"isCheck":0,"isQueen":false},{"color":7,"isCheck":0,"isQueen":false},{"color":7,"isCheck":0,"isQueen":false},{"color":7,"isCheck":0,"isQueen":false},{"color":6,"isCheck":0,"isQueen":false},{"color":6,"isCheck":0,"isQueen":false},{"color":6,"isCheck":0,"isQueen":false},{"color":9,"isCheck":0,"isQueen":true},{"color":9,"isCheck":0,"isQueen":false}]]}
+{
+  "Id": 75,
+  "Size": 9,
+  "Colors": [
+    [
+      { "color": 1, "isQueen": false },
+      { "color": 1, "isQueen": false },
+      { "color": 1, "isQueen": false },
+      { "color": 1, "isQueen": false },
+      { "color": 1, "isQueen": false },
+      { "color": 1, "isQueen": false },
+      { "color": 2, "isQueen": true },
+      { "color": 2, "isQueen": false },
+      { "color": 2, "isQueen": false }
+    ],
+    [
+      { "color": 1, "isQueen": false },
+      { "color": 1, "isQueen": false },
+      { "color": 1, "isQueen": false },
+      { "color": 3, "isQueen": true },
+      { "color": 3, "isQueen": false },
+      { "color": 3, "isQueen": false },
+      { "color": 2, "isQueen": false },
+      { "color": 2, "isQueen": false },
+      { "color": 2, "isQueen": false }
+    ],
+    [
+      { "color": 4, "isQueen": false },
+      { "color": 1, "isQueen": true },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 2, "isQueen": false },
+      { "color": 2, "isQueen": false }
+    ],
+    [
+      { "color": 4, "isQueen": false },
+      { "color": 1, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": true },
+      { "color": 5, "isQueen": false },
+      { "color": 2, "isQueen": false },
+      { "color": 2, "isQueen": false }
+    ],
+    [
+      { "color": 4, "isQueen": true },
+      { "color": 4, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 2, "isQueen": false },
+      { "color": 2, "isQueen": false }
+    ],
+    [
+      { "color": 4, "isQueen": false },
+      { "color": 4, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 2, "isQueen": false },
+      { "color": 6, "isQueen": true }
+    ],
+    [
+      { "color": 4, "isQueen": false },
+      { "color": 7, "isQueen": false },
+      { "color": 7, "isQueen": true },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 5, "isQueen": false },
+      { "color": 2, "isQueen": false },
+      { "color": 2, "isQueen": false },
+      { "color": 6, "isQueen": false }
+    ],
+    [
+      { "color": 4, "isQueen": false },
+      { "color": 7, "isQueen": false },
+      { "color": 7, "isQueen": false },
+      { "color": 7, "isQueen": false },
+      { "color": 8, "isQueen": true },
+      { "color": 6, "isQueen": false },
+      { "color": 6, "isQueen": false },
+      { "color": 6, "isQueen": false },
+      { "color": 6, "isQueen": false }
+    ],
+    [
+      { "color": 4, "isQueen": false },
+      { "color": 7, "isQueen": false },
+      { "color": 7, "isQueen": false },
+      { "color": 7, "isQueen": false },
+      { "color": 6, "isQueen": false },
+      { "color": 6, "isQueen": false },
+      { "color": 6, "isQueen": false },
+      { "color": 9, "isQueen": true },
+      { "color": 9, "isQueen": false }
+    ]
+  ]
+}
